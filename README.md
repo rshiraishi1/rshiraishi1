@@ -1,7 +1,6 @@
 ### Hey! My name is Reiko Shiraishi (she/her), and I'm a sophomore at Santa Clara University, studying Computer Science and Mathematics.
 
 <!--
-**rshiraishi1/rshiraishi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

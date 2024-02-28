@@ -1,4 +1,4 @@
-### Hey! My name is Reiko Shiraishi (she/her), and I'm a sophomore at Santa Clara University, studying Computer Science and Mathematics.
+### Hey! My name is Reiko Shiraishi (she/her), and I'm a junior at Santa Clara University, studying Computer Science and Mathematics.
 
 <!--
 
